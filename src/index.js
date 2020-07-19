@@ -37,7 +37,7 @@ ReactDOM.render(<App />,document.getElementById("root"));
 // 12-15 hrs a week for pet project and 12-15hrs a week for free-lancing
 //(condition)?(true expression):(false expression)
 //(condition)&&(true expression) if only true part there else use null in false part
-//React apne developers ko dudh pilata hai by giving them the ability to use declaritive programming but stuff like DOM manipulation is imperative programming
+//React helps developer by giving them the ability to use declaritive programming but stuff like DOM manipulation is imperative programming
 //we can chose to drink or not to drink sweet sweet milk of react
 //When writing React, it’s often good not to think of how you want to accomplish a result, but instead what the component should look like in it’s new state.
 //it is easier to work with declaritive programming rather than imperative(DOM manipulation) in react

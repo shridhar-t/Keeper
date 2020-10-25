@@ -11,5 +11,5 @@ function Note(props) {
     </div>
   );
 }
-
+//We cant call functions inside of onClick because they are called without button click. Instead we should use handleCLick(only function name) or else define and arrow function inside onClick
 export default Note;
